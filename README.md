@@ -36,4 +36,4 @@ https://medium.com/@lmht772000/adidas-trending-56060d3f8cee .
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The dataset is freely to use [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). And the results also freely to get and analysis for research and business also. 
+The dataset is freely to use and the results also freely to get and analysis for research and business also. 
