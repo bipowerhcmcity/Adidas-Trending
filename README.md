@@ -32,7 +32,9 @@ There are one file Python Jupyter Notebook to preprocessing the data that read f
 ## Results<a name="results"></a>
 
 For more detail answers, you can find it on:
-https://medium.com/@lmht772000/adidas-trending-56060d3f8cee .
+https://open.substack.com/pub/khoatruong/p/adidas-trending?r=2lae4h&utm_campaign=post&utm_medium=web .
+
+I have changed the link because I cannot now access to Medium for modifying
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
